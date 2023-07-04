@@ -10,7 +10,6 @@ total_cents = 0
 
 
 def get_coin(coin_type):
-    
     coin = -1
     while coin < 0:
         try:
